@@ -1,0 +1,18 @@
+{
+ "product": "ALIEF_ACCPRO",
+ "kind": "update",
+ "version": "1.2.8",
+ "file": "ALIEF_ACCPRO_Setup_1.2.8.exe",
+ "sha256": "f2eb4646fc20aa8fd5157ed6965a6bf2e84120a65e81783be3583c566ffff2a4",
+ "size": 48113088,
+ "date": "2026-11-20",
+ "notes": [
+  "Update otomatis lewat internet: program mengambil update langsung dari repo GitHub resmi (paket bertanda tangan digital) dan meneruskannya ke folder Google Drive tim untuk komputer tanpa internet",
+  "Sisipkan baris: + Item / + Teks / scope / + Judul bagian langsung masuk tepat di bawah baris yang dipilih (siap diketik) - tidak perlu dinaikkan / diturunkan; tombol Insert (di bawah), Alt+Insert (di atas) dan menu klik kanan; juga di rincian invoice, barang Gate Pass / Surat Jalan dan daftar scope / notes",
+  "Quotation: Judul bagian ditulis lebih besar dan tebal (dengan pita warna), deskripsi item ditulis biasa - susunan rincian lebih jelas dan teratur, di semua desain PDF dan di editor",
+  "Editor quotation dibagi 3 panel: Data quotation | Rincian pekerjaan & harga | Ketentuan, termin & catatan - tabel rincian memenuhi panelnya sendiri (satu gulir saja, tidak ada gulir ganda), total selalu tampil di bawah",
+  "Quotation: baris Teks / scope dan Judul bagian ditulis selebar tabel sampai sisi kanan (melewati kolom Qty, Unit, Harga, Amount) di semua desain PDF dan di editor - tidak terpotong di kolom deskripsi"
+ ],
+ "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/alief/ALIEF_ACCPRO_Setup_1.2.8.exe",
+ "signature": "Fi5h3B0u1FyzDJ8s6CXg5gNWLgxon6lpAA1JotTggjCgF68vN1Amw0iFUc/Ciq4dbYX4Q3vNJuZ8Rpl+GVr7AQ=="
+}
