@@ -1,18 +1,17 @@
 {
  "product": "NAVTEK_ACCPRO",
  "kind": "update",
- "version": "1.0.10",
- "file": "NAVTEK_ACCPRO_Setup_1.0.10.exe",
- "sha256": "71d668688c3d8766f503618c2f6f65d5313db0d65d30445e7c0ee47bbf2cf9a5",
- "size": 48755778,
- "date": "2026-11-20",
+ "version": "1.0.11",
+ "file": "NAVTEK_ACCPRO_Setup_1.0.11.exe",
+ "sha256": "eb1b7e44c515584e6b8eb55fefa504b1ce2917e659fdb2b6b9eac3e64395e1b3",
+ "size": 48751706,
+ "date": "2026-11-23",
  "notes": [
-  "Update otomatis lewat internet: program mengambil update langsung dari repo GitHub resmi (paket bertanda tangan digital) dan meneruskannya ke folder Google Drive tim untuk komputer tanpa internet",
-  "Sisipkan baris: + Item / + Teks / scope / + Judul bagian langsung masuk tepat di bawah baris yang dipilih (siap diketik) - tidak perlu dinaikkan / diturunkan; tombol Insert (di bawah), Alt+Insert (di atas) dan menu klik kanan; juga di rincian invoice, barang Gate Pass / Surat Jalan dan daftar scope / notes",
-  "Quotation: Judul bagian ditulis lebih besar dan tebal (dengan pita warna), deskripsi item ditulis biasa - susunan rincian lebih jelas dan teratur, di semua desain PDF dan di editor",
-  "Editor quotation dibagi 3 panel: Data quotation | Rincian pekerjaan & harga | Ketentuan, termin & catatan - tabel rincian memenuhi panelnya sendiri (satu gulir saja, tidak ada gulir ganda), total selalu tampil di bawah",
-  "Quotation: baris Teks / scope dan Judul bagian ditulis selebar tabel sampai sisi kanan (melewati kolom Qty, Unit, Harga, Amount) di semua desain PDF dan di editor - tidak terpotong di kolom deskripsi"
+  "Quotation: panel baru \"4. Lampiran\" - lampirkan file apa pun (PDF, gambar, Excel, Word; beberapa sekaligus atau tarik ke tabel); lampiran PDF / gambar otomatis digabung di belakang PDF quotation (bisa dimatikan)",
+  "Tempel (Ctrl+V) tidak lagi menghapus tulisan yang sudah ada: teks ditambahkan di belakang tulisan, beberapa baris / baris dari Excel atau quotation lain disisipkan di bawah baris yang dipilih",
+  "Update otomatis lewat internet (repo GitHub resmi), diteruskan ke folder Google Drive tim",
+  "Ikon program tampil di taskbar Windows (tidak lagi ikon kosong)"
  ],
- "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/navtek/NAVTEK_ACCPRO_Setup_1.0.10.exe",
- "signature": "2J8HNuA1OZIVjPqtZZ1fd5QWNsgYr6E3n1vtOx9r8idkFHQHAPlg0wbYCanwtZxoITbRqbB7RXZHcKjqvJuEAQ=="
+ "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/navtek/NAVTEK_ACCPRO_Setup_1.0.11.exe",
+ "signature": "luuOanfj1yn+GDex7o/N4ygOoODLkMr+PFAXLCuKbbu2NmS0KtNbbD+ptvf65GzdZlQzFJn/LeRt/ZMllZ99BQ=="
 }
