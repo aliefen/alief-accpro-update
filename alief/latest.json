@@ -1,17 +1,15 @@
 {
  "product": "ALIEF_ACCPRO",
  "kind": "update",
- "version": "1.2.9",
- "file": "ALIEF_ACCPRO_Setup_1.2.9.exe",
- "sha256": "f962903442e8c83183540c517de05d0b6b290ad3d01e0151e211138c85e6a351",
- "size": 48115886,
- "date": "2026-11-23",
+ "version": "1.2.10",
+ "file": "ALIEF_ACCPRO_Setup_1.2.10.exe",
+ "sha256": "9d16443252615dac0fec0fff5e9959ee39b25efc3f47d51f101b847766daf67d",
+ "size": 48126702,
+ "date": "2026-11-25",
  "notes": [
-  "Quotation: panel baru \"4. Lampiran\" - lampirkan file apa pun (PDF, gambar, Excel, Word; beberapa sekaligus atau tarik ke tabel); lampiran PDF / gambar otomatis digabung di belakang PDF quotation (bisa dimatikan)",
-  "Tempel (Ctrl+V) tidak lagi menghapus tulisan yang sudah ada: teks ditambahkan di belakang tulisan, beberapa baris / baris dari Excel atau quotation lain disisipkan di bawah baris yang dipilih",
-  "Update otomatis lewat internet (repo GitHub resmi), diteruskan ke folder Google Drive tim",
-  "Ikon program tampil di taskbar Windows (tidak lagi ikon kosong)"
+  "Kop surat semua dokumen (quotation, invoice, statement, laporan): Bidang usaha dicetak lebih besar daripada alamat",
+  "Kop surat: Alamat baris 1, baris 2 dan baris 3 dicetak ke bawah (satu baris masing-masing), tidak lagi digabung dalam satu baris"
  ],
- "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/alief/ALIEF_ACCPRO_Setup_1.2.9.exe",
- "signature": "bsXb4FQ/nA5wLB/k611MWmJ/e0ZNXIDjzIw/Tl+wWCPPUBfbESmiNXy8axSsj8FMYa7T+2P10kPpQiA3jD9CAw=="
+ "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/alief/ALIEF_ACCPRO_Setup_1.2.10.exe",
+ "signature": "OXYEfRkuNimRDC7t3dox9Racn3vRMMprzlvDJmJlVnRPDwtDeWi0SwD5YXDIp3RaPobCgYIEv9a2McfJZNYqBQ=="
 }

@@ -1,17 +1,15 @@
 {
  "product": "NAVTEK_ACCPRO",
  "kind": "update",
- "version": "1.0.11",
- "file": "NAVTEK_ACCPRO_Setup_1.0.11.exe",
- "sha256": "eb1b7e44c515584e6b8eb55fefa504b1ce2917e659fdb2b6b9eac3e64395e1b3",
- "size": 48751706,
- "date": "2026-11-23",
+ "version": "1.0.12",
+ "file": "NAVTEK_ACCPRO_Setup_1.0.12.exe",
+ "sha256": "40a2a04aa95b7530ac1a4f506677681a8a09b1305af5e89159ddea82b1e65481",
+ "size": 48682006,
+ "date": "2026-11-25",
  "notes": [
-  "Quotation: panel baru \"4. Lampiran\" - lampirkan file apa pun (PDF, gambar, Excel, Word; beberapa sekaligus atau tarik ke tabel); lampiran PDF / gambar otomatis digabung di belakang PDF quotation (bisa dimatikan)",
-  "Tempel (Ctrl+V) tidak lagi menghapus tulisan yang sudah ada: teks ditambahkan di belakang tulisan, beberapa baris / baris dari Excel atau quotation lain disisipkan di bawah baris yang dipilih",
-  "Update otomatis lewat internet (repo GitHub resmi), diteruskan ke folder Google Drive tim",
-  "Ikon program tampil di taskbar Windows (tidak lagi ikon kosong)"
+  "Kop surat semua dokumen (quotation, invoice, statement, laporan): Bidang usaha dicetak lebih besar daripada alamat",
+  "Kop surat: Alamat baris 1, baris 2 dan baris 3 dicetak ke bawah (satu baris masing-masing), tidak lagi digabung dalam satu baris"
  ],
- "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/navtek/NAVTEK_ACCPRO_Setup_1.0.11.exe",
- "signature": "luuOanfj1yn+GDex7o/N4ygOoODLkMr+PFAXLCuKbbu2NmS0KtNbbD+ptvf65GzdZlQzFJn/LeRt/ZMllZ99BQ=="
+ "url": "https://raw.githubusercontent.com/aliefen/alief-accpro-update/main/navtek/NAVTEK_ACCPRO_Setup_1.0.12.exe",
+ "signature": "MUylRoolTW9QFR1/UIZJTYBvclJALRR5OZWFiu9zHawgVH5AgwT4VEsvft2zQzKKBJsALk+t5JxtQGtJ91xoCw=="
 }
